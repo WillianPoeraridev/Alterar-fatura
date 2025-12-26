@@ -86,6 +86,34 @@
         "hash": "NExtractDataGeneric`1_3|DataTable|yoNSgK4r2ScHwaVnmRsxhTRTSvtMHFObIYrpfqi99Y",
         "assemblyName": "Studio.Generated.TypedDataTable4"
       }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 5,
+        "idRef": "NExtractDataGeneric`1_4",
+        "hash": "NExtractDataGeneric`1_4|DataTable|SvGBpuiLzjUJ8KNLO6yJ1pfFf0JKRdn0i7rNPjU8",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "ID",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Status",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Vencimento",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable5",
+        "hash": "NExtractDataGeneric`1_4|DataTable|0gFrct4qRNwa3LEZA8U1tSBncDwOo47WhmYLvdgI",
+        "assemblyName": "Studio.Generated.TypedDataTable5"
+      }
     }
   ]
 }
