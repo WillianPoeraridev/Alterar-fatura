@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="m4WQyhGhFEyPfshVPRmAAQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sistema.fenixwireless.com.br/adm.php" CVScreenId="e29f73e1-3709-41a0-9b2e-f3d599a41feb" CvTextArea="445, 670, 78, 16" CvTextArgument="O A receber" CvType="Text" DesignTimeRectangle="394, 667, 182, 23" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='cliente_cliente_contrato_rel_areceber' tag='TABLE' /&gt;&lt;webctrl tableCol='3' tableRow='9' tag='DIV' /&gt;" Guid="8988f89d-0675-495e-b893-ad4401afc8df" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FENIX INTERNET' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e29f73e1-3709-41a0-9b2e-f3d599a41feb" CvTextArea="319, 672, 57, 12" CvTextArgument="11187156" CvType="Text" DesignTimeRectangle="318, 670, 60, 17" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='cliente_cliente_contrato_rel_areceber' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl aaname='11187156' type='' tag='DIV' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='11187156' /&gt;" Guid="c5dc77a7-c51b-407f-84d7-9c3c41378b31" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d45c020f026466f3b83a24e18e3d285e.png" xmlns="">0EsJmD03KkUSQOeGZFB2PYA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mJAYiVPHKUC0nAGeKloDag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sistema.fenixwireless.com.br/adm.php" CVScreenId="b3d2b168-b314-488e-8952-a721c64338f6" CvElementArea="452, 322, 135, 34" CvTextArea="474, 332, 78, 15" CvTextArgument="Outras ações" CvType="Button" DesignTimeRectangle="454, 324, 132, 30" ElementType="Container" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='print_form' parentid='11' tag='NAV' /&gt;" Guid="b3d3c40f-4fff-45dc-9993-970f1ef072db" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FENIX INTERNET' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b3d2b168-b314-488e-8952-a721c64338f6" CvElementArea="452, 322, 135, 34" CvTextArea="474, 332, 78, 15" CvTextArgument="Outras ações" CvType="Button" DesignTimeRectangle="475, 333, 76, 12" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Outras ações' parentid='print_form' tag='SPAN' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Outras ações' /&gt;" Guid="3c41552d-bf31-4bde-8385-99999e90770f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4caba538b8b55021bd0566f6ebf364e3.png" xmlns="">0UEs5rAtsEkeVKrKf4YjL9w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
