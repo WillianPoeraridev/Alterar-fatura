@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="az0vNOMDBUmwRfFrUvoZpw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sistema.fenixwireless.com.br/adm.php" CVScreenId="9b313103-3bc8-4dd4-8a30-a12f611309d6" CvElementArea="123, 325, 80, 34" CvTextArea="145, 336, 36, 12" CvTextArgument="Editar" CvType="Button" DesignTimeRectangle="125, 328, 76, 30" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl name='btn_editar' tag='BUTTON' type='button' /&gt;" Guid="a1802184-4c69-49b1-9dd6-09a312e43415" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FENIX INTERNET' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9b313103-3bc8-4dd4-8a30-a12f611309d6" CvTextArea="943, 306, 69, 11" CvTextArgument="Títulos novos" CvType="Text" DesignTimeRectangle="115, 303, 1726, 20" FuzzySelectorArgument="&lt;webctrl type='' class='grid-title-container mDiv bg1' parentid='3' parentname='fn_renegociacao_wiz' tag='DIV' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:parentname='fuzzy' fuzzylevel:parentname='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Títulos novos' /&gt;" Guid="d4cbc89a-47e9-4461-800c-48c2f4e45dbe" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fb0c5e6e2d982dea3d1e72c7d6ec78da.png" xmlns="">0UU4lsFLdCEu6KlqhqU0XpQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

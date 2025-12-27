@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KpgXB1i550CgO2iMGe6sZQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sistema.fenixwireless.com.br/adm.php" CVScreenId="da0c2754-3b24-4062-8102-a199ef8aef21" CvElementArea="507, 518, 113, 33" CvType="InputBox" DesignTimeRectangle="509, 520, 110, 30" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='data_vencimento' parentid='1' tag='INPUT' type='text' class='ixc-fields disab' aaname=' Data de vencimento:' matching:id='fuzzy' fuzzylevel:id='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="30158d78-949a-47d7-a0fa-a270463df525" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FENIX INTERNET' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="da0c2754-3b24-4062-8102-a199ef8aef21" CvTextArea="366, 529, 126, 12" CvTextArgument="Data do vencimento: *" CvType="Text" DesignTimeRectangle="364, 527, 129, 17" FuzzySelectorArgument="&lt;webctrl aaname=' Data do vencimento:' parentid='1' parentname='fn_renegociacao_altera_areceber' tag='SPAN' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:parentname='fuzzy' fuzzylevel:parentname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Data do vencimento: *' /&gt;" Guid="ff1cb143-d4f9-41da-a3c6-441f656e1715" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4e528e8d3b9640b8df12136a703a4370.png" xmlns="">0PGk4IhMdgUe6vY81hfAiOQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cGjwt0zQW0CbQxIwzBDyIQ" Reference="4O4XyjYNEkaOTXx-TbFH4Q/h5kMMZhvNUWxTdboPEPhDQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sistema.fenixwireless.com.br/adm.php" CVScreenId="71594692-ab43-4d12-8f29-a7e4145a33ad" CvElementArea="278, 637, 23, 23" CvType="CheckBox" DesignTimeRectangle="269, 634, 41, 30" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='cliente_cliente_contrato_rel_areceber' tag='TABLE' /&gt;&lt;webctrl tableRow='8' tag='TD' /&gt;" Guid="8d432af3-68b4-41fa-b665-1ab21df80de2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FENIX INTERNET' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="71594692-ab43-4d12-8f29-a7e4145a33ad" CvTextArea="319, 642, 57, 12" CvTextArgument="idAtual" CvType="Text" DesignTimeRectangle="318, 640, 60, 17" ElementType="Text" Guid="4dae393f-bbef-4aab-add1-2770d8f5cb80" SearchSteps="CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1012dfc660f0618b63d7239a51494306.png" xmlns="">0z2n0cGCcVUa9H5dRJphFig</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

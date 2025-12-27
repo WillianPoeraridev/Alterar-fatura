@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="RjPkw2gtJEG-COLxlLulTw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="DNB22N0ZQE6jMfnCn-mGbA" Reference="4O4XyjYNEkaOTXx-TbFH4Q/ntGuaFfdWE2fAQwNyzMe9A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
     <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sistema.fenixwireless.com.br/adm.php" CVScreenId="0676bc47-bbe3-49a4-b7e0-681591e307a5" CvTextArea="467, 533, 141, 15" CvTextArgument="Renegociar selecionados" CvType="Text" DesignTimeRectangle="467, 533, 140, 15" ElementType="Text" ElementVisibilityArgument="Interactive" Guid="1febf238-868c-42ae-8e1e-4e05934119e4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FENIX INTERNET' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" WaitForReadyArgument="Interactive">
       <TargetAnchorable.Anchors>
@@ -7,7 +7,7 @@
           <Target CVScreenId="0676bc47-bbe3-49a4-b7e0-681591e307a5" CvElementArea="452, 322, 135, 34" CvTextArea="474, 332, 78, 15" CvTextArgument="Outras ações" CvType="Button" DesignTimeRectangle="475, 333, 76, 12" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Outras ações' parentid='print_form' tag='SPAN' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Outras ações' /&gt;" Guid="352a6363-1256-469a-ac06-42cc01501137" SearchSteps="FuzzySelector, CV" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="ae967399f68b4b7a0296df10756394a2.png" xmlns="">0WkHfo9YNfUuM7d8OWEAk-A</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="0608e20bc9b8c900aab991069657e199.png" xmlns="">0Zb2IEKI1KU6ak_LNCNaS9g</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>
