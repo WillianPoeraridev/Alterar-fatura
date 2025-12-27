@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vXm6HsdSn0qnwraTPnYxsA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sistema.fenixwireless.com.br/adm.php" CVScreenId="8c673206-cb19-466e-af4a-b56fed54852b" CvElementArea="502, 398, 78, 32" CvType="InputBox" DesignTimeRectangle="504, 399, 75, 30" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='id_carteira_cobranca' tag='INPUT' type='text' class='ixc-fields disab input_search' aaname='Carteira de cobrança: *' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' fuzzylevel:aaname='0.0' /&gt;" Guid="6c670ad0-968f-4458-968e-28b7ce969ff5" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FENIX INTERNET' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8c673206-cb19-466e-af4a-b56fed54852b" CvTextArea="357, 408, 131, 12" CvTextArgument="Carteira de cobrança: *" CvType="Text" DesignTimeRectangle="358, 406, 130, 17" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Carteira de cobrança:' parentid='2' parentname='fn_renegociacao_wiz' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:parentname='fuzzy' fuzzylevel:parentname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Carteira de cobrança: *' /&gt;" Guid="9910e5cc-3364-444e-bdec-e413a7f2dc6a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c6dc6be478219bb67f57afa074db0809.png" xmlns="">0A7nIpipWYESmRfTV0IWI7w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

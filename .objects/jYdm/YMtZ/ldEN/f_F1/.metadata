@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Acréscimos",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "f_F1eYW6bkGmXe6_MaoghQ",
+  "Reference": "4O4XyjYNEkaOTXx-TbFH4Q/f_F1eYW6bkGmXe6_MaoghQ",
+  "ParentRef": "4O4XyjYNEkaOTXx-TbFH4Q/ldENADwIZ0-w5ov8lNTchA",
+  "Created": "2025-12-27T00:10:11.4928817Z",
+  "Updated": "2025-12-27T00:10:11.4928817Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

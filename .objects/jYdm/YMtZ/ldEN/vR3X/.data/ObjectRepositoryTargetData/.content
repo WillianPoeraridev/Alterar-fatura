@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0hIz5eMxLEGrAnDENdeG7w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sistema.fenixwireless.com.br/adm.php" CVScreenId="0209e75d-0403-43b8-b1a5-6260010567ec" CvElementArea="1188, 637, 77, 36" CvTextArea="1208, 648, 39, 12" CvTextArgument="Fechar" CvType="Button" DesignTimeRectangle="1191, 639, 72, 32" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='VG-BUTTON' /&gt;" Guid="3d9fc3c3-258f-4e17-9728-440f7936921b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FENIX INTERNET' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="-3" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="fd670e84ff09c6d3debb7eb88555141e.png" xmlns="">0FmoohOa4ikugbiHlI6yxcQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

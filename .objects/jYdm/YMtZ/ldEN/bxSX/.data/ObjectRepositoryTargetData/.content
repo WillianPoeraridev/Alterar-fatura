@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lUfk2J7nxkCD1XC5XxThQQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sistema.fenixwireless.com.br/adm.php" CVScreenId="64cf3ab9-4fd9-47eb-9839-17c3272a491d" CvElementArea="234, 212, 111, 33" CvType="Button" DesignTimeRectangle="310, 223, 14, 12" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='btn_proximo' tag='I' /&gt;" Guid="4b54ab70-8b7e-43f2-b163-abe12042b8b7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FENIX INTERNET' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="64cf3ab9-4fd9-47eb-9839-17c3272a491d" CvElementArea="234, 212, 111, 33" CvTextArea="257, 222, 50, 12" CvTextArgument="Próximo" CvType="Button" DesignTimeRectangle="237, 214, 108, 30" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='btn_proximo' tag='BUTTON' type='button' class='ixc-buttons disab' aaname='Próximo ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Próximo' /&gt;" Guid="d6f5d2e3-35f5-46fa-b422-262c92f5a69a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="73f779cfbcceb92f12d75f99c752ac96.png" xmlns="">00XYa7bWhjk2V3G_wOfj2KA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

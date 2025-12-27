@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Carteira de cobrança ",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "WVuAzlzIpkGDBlf1I7ScqQ",
+  "Reference": "4O4XyjYNEkaOTXx-TbFH4Q/WVuAzlzIpkGDBlf1I7ScqQ",
+  "ParentRef": "4O4XyjYNEkaOTXx-TbFH4Q/ldENADwIZ0-w5ov8lNTchA",
+  "Created": "2025-12-27T00:01:34.1750688Z",
+  "Updated": "2025-12-27T00:01:34.1750688Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

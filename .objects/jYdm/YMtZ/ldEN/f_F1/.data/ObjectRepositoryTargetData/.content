@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BUl-sHMibU26whENtKORRQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sistema.fenixwireless.com.br/adm.php" CVScreenId="d2c1ba68-d255-43a3-9958-ac9515dd6359" CvElementArea="502, 609, 112, 32" CvType="InputBox" DesignTimeRectangle="504, 610, 110, 30" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='valor_acrescimos' tag='INPUT' type='text' class='ixc-fields disab' aaname=' Acréscimos:' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="6e3b8128-d97c-4d45-881b-83d6d232c427" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FENIX INTERNET' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d2c1ba68-d255-43a3-9958-ac9515dd6359" CvTextArea="419, 619, 69, 12" CvTextArgument="Acréscimos:" CvType="Text" DesignTimeRectangle="418, 617, 70, 17" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' class='' parentid='2' parentname='fn_renegociacao_wiz' tag='LABEL' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:parentname='fuzzy' fuzzylevel:parentname='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Acréscimos:' /&gt;" Guid="2758ef94-60ae-4d2d-900d-538942ac9a8c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8854d825c41ce7567b05c7aba5ebfdf3.png" xmlns="">0425hRAcfdEeWFY2BdW950w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

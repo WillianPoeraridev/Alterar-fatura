@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HZLn0fCtT0CxPZvwspPprA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sistema.fenixwireless.com.br/adm.php" CVScreenId="c39d7b77-a040-4fa5-952a-783ad5acce10" CvElementArea="502, 438, 78, 32" CvType="InputBox" DesignTimeRectangle="504, 439, 75, 30" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='id_condicao_pagamento' tag='INPUT' type='text' class='ixc-fields disab input_search' aaname='Condição de pagamento: *' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' fuzzylevel:aaname='0.0' /&gt;" Guid="14e8a4b0-8a34-4c9d-9782-2585e0398619" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FENIX INTERNET' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c39d7b77-a040-4fa5-952a-783ad5acce10" CvTextArea="337, 448, 151, 15" CvTextArgument="Condição de pagamento: *" CvType="Text" DesignTimeRectangle="338, 446, 150, 17" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Condição de pagamento:' parentid='2' parentname='fn_renegociacao_wiz' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:parentname='fuzzy' fuzzylevel:parentname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Condição de pagamento: *' /&gt;" Guid="f0ffcd8d-dfad-4ccb-9a38-86854d4d8bf4" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3b7ab5168095414f13e07c29f89bdfdb.png" xmlns="">0qCYWH-2vcUqyl4uZyKyOAA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

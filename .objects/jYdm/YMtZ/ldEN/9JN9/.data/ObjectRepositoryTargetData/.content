@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="l-IcEK6ziEKb00DdS63UFQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sistema.fenixwireless.com.br/adm.php" CVScreenId="c461e9b7-c56b-4b34-b271-b005017797e3" CvElementArea="502, 648, 114, 33" CvType="InputBox" DesignTimeRectangle="504, 650, 110, 30" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='valor_descontos' tag='INPUT' type='text' class='ixc-fields disab' aaname=' Descontos:' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="a2acbd2a-d09f-482a-979c-da68dd4b15cb" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FENIX INTERNET' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c461e9b7-c56b-4b34-b271-b005017797e3" CvTextArea="425, 659, 63, 12" CvTextArgument="Descontos:" CvType="Text" DesignTimeRectangle="423, 657, 65, 17" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' class='' parentid='2' parentname='fn_renegociacao_wiz' tag='LABEL' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:parentname='fuzzy' fuzzylevel:parentname='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Descontos:' /&gt;" Guid="8af0c437-4bdc-4f23-a600-f9494acfcc8c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3837de65b6b0b98ce3caec93267430f1.png" xmlns="">07-Y3McOeVk6RnqVBDXajpQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Condição de pagamento ",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "VNLvdHVSDkuf8Yxx47pGxg",
+  "Reference": "4O4XyjYNEkaOTXx-TbFH4Q/VNLvdHVSDkuf8Yxx47pGxg",
+  "ParentRef": "4O4XyjYNEkaOTXx-TbFH4Q/ldENADwIZ0-w5ov8lNTchA",
+  "Created": "2025-12-27T00:02:03.222832Z",
+  "Updated": "2025-12-27T00:02:03.222832Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
