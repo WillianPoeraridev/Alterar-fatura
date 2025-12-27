@@ -114,6 +114,26 @@
         "hash": "NExtractDataGeneric`1_4|DataTable|0gFrct4qRNwa3LEZA8U1tSBncDwOo47WhmYLvdgI",
         "assemblyName": "Studio.Generated.TypedDataTable5"
       }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 6,
+        "idRef": "NExtractDataGeneric`1_5",
+        "hash": "NExtractDataGeneric`1_5|DataTable|gvdpLrCUjBeMzLXcOu9RGe8GFDHvGjHc90HwiFtA",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "vencimentoFatura",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable6",
+        "hash": "NExtractDataGeneric`1_5|DataTable|UeIBC1YRsj7kIV3oBV2Rk2t418na21wQgu6TLMCdg",
+        "assemblyName": "Studio.Generated.TypedDataTable6"
+      }
     }
   ]
 }
